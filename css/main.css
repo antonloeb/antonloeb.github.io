@@ -1143,7 +1143,7 @@ input::-moz-focus-inner {
   font-family: "montserrat-bold", sans-serif;
   font-size: 1.8 rem;
   line-height: 1.667;
-  color: rgba(242, 242, 242, 0.5);
+  color: #f0b029;
   text-transform: uppercase;
   letter-spacing: .3rem;
   margin-bottom: 1.2rem;
